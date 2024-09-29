@@ -21,7 +21,7 @@ A powerful and efficient task management system built with **Django**, **DRF**, 
 - **API Docs**: Swagger
 
 ## 📂 Project Structure
-
+```bash
 task_management/
 │
 ├── task_management/        # Core project settings
@@ -41,7 +41,7 @@ task_management/
 ├── manage.py               # Django project manager
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-
+```
 ## 🖥️ Installation & Setup
 1. Clone the repository
 ```bash
