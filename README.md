@@ -1,7 +1,7 @@
 # 📝 Task Management System
 
 A powerful and efficient task management system built with **Django**, **DRF**, **PostgreSQL**, and **Docker**. This application allows users to register, create, and manage tasks with role-based access control. 
-
+ 
 ## 🚀 Features 
 
 - **User Registration & Authentication**: Secure user sign-up, login, and authentication using JWT.
